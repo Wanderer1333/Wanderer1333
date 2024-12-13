@@ -1,6 +1,9 @@
 <p align="left"># Hi there, I'm Vadym 👋</p>
 
-🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - intermediate | plPolish - intermediate
+🌐 Languages : 
+Ukrainian - native | 
+English - intermediate | 
+Polish - intermediate | 
 <!--
 ## Roadmap 2024 :
 ✍️ - Improve: SCSS | JavaScript | React | UI/UX
