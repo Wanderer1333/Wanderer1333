@@ -1,14 +1,14 @@
 <p align="left"># Hi there, I'm Vadym 👋</p>
 
 🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - intermediate | plPolish - intermediate
-
+<!--
 ## Roadmap 2024 :
 ✍️ - Improve: SCSS | JavaScript | React | UI/UX
 
 📚 - Learn: Next.js | TypeScript 
 
 ## 🔨 My stack and tools :
-
+-->
 ### **Frontend**:
 
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" width="40" height="40"/>  
