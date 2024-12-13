@@ -1,4 +1,4 @@
-<p align="left"># Hi there, I'm Vadym 👋</p>
+<p align="left"> Hey there, I'm Vadym 👋</p>
 
 🌐 Languages : 
 Ukrainian - native | 
