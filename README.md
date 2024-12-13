@@ -1,9 +1,14 @@
-<p align="left"> Hey there, I'm Vadym 👋</p>
+<p align="left"> Hello everyone👋.
+My name is Vadym.
+I finished FULL STACK DEVELOPER.
+Now I’m not looking for a job 👨‍💻 remotely.
+</p>
 
 🌐 Languages : 
-Ukrainian - native | 
-English - intermediate | 
-Polish - intermediate | 
+Ukrainian is native.
+Russian is native.
+English - beginner level. 
+Polish - above intermediate level. 
 <!--
 ## Roadmap 2024 :
 ✍️ - Improve: SCSS | JavaScript | React | UI/UX
