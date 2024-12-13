@@ -5,10 +5,10 @@ Now I’m not looking for a job 👨‍💻 remotely.
 </p>
 
 🌐 Languages : 
-Ukrainian is native.
-Russian is native.
-English - beginner level. 
-Polish - above intermediate level. 
+Ukrainian is native |
+Russian is native |
+English - beginner level | 
+Polish - above intermediate level |
 <!--
 ## Roadmap 2024 :
 ✍️ - Improve: SCSS | JavaScript | React | UI/UX
